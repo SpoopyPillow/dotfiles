@@ -1,0 +1,5 @@
+[user]
+	email = mbh326684@gmail.com
+	name = Michael Hu
+[credential]
+	helper = /mnt/c/Program\\ Files/Git/mingw64/bin/git-credential-manager.exe
